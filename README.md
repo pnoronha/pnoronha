@@ -1,7 +1,8 @@
-![PatrickStar](https://tenor.com/view/patrick-star-phone-call-spongebob-whistle-angry-gif-11899492
+## Is this a Programming Student repository?
+
+![PatrickStar](https://github.com/pnoronha/pnoronha/blob/main/images/patrick-star-phone-call.gif
 "Patrick")
 
-## Is this a Programming Student repository?
 # NO THIS IS PATRICK!
 
 Hy there! You found Patrick's git_repository!
